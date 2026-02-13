@@ -15,6 +15,12 @@
 
 <br/> 
 
+<div align="center"> <h2><b>📈 Contribution Graph</b></h2> 
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DKBOTZPROJECT&bg_color=0d1117&color=ffffff&line=FF3C3C&point=FF3C3C&area=true&area_color=FF3C3C&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub Activity Graph" /> </div>
+
+<br/>
+
 <div align="center"> <h2><b>🏆 GitHub Trophies</b></h2> </div> 
 
 <div align="center"> <img src="https://github-trophies.vercel.app/?username=DKBOTZPROJECT&theme=matrix" alt="GitHub Trophies" /> </div> 
