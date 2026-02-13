@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Owner of DKBOTZ</h1>
+<br/> 
+
+<div align="center"> <h2><b>📊 GitHub Stats</b></h2> </div> 
+
+<div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DKBOTZPROJECT&theme=blue_green" alt="GitHub Profile Details" /> </div>
 
 <br/> 
 
